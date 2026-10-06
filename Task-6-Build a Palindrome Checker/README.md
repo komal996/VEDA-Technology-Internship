@@ -57,6 +57,7 @@ isStringPalindrome()
 and
 
 isNumberPalindrome()
+
 3. Loops
 
 A while loop is used to compare string characters and reverse numbers.
