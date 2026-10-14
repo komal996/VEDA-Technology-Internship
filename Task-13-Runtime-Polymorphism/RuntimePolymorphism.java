@@ -1,4 +1,3 @@
-
 class Employee {
     void displayRole() {
         System.out.println("Employee works in the company.");
