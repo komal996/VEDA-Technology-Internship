@@ -103,8 +103,3 @@ Through this task, I practiced:
 The Inventory Management System provides practical experience in developing a Java console application for managing product records. This task helped strengthen my understanding of Java programming, data management, and Object-Oriented Programming concepts.
 
 
-**Internship:** VEDA Technology
-
-**Domain:** Java Development
-
-**Task:** 17 – Inventory Management System
