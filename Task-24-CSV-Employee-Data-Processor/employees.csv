@@ -1,0 +1,12 @@
+
+ID,Name,Department,Salary
+101,Rahul,IT,50000
+102,Priya,HR,60000
+103,Amit,Finance,45000
+104,Neha,IT,75000
+105,Rohit,Sales,35000
+106,Komal,Development,80000
+107,Anjali,HR,55000
+108,Vikas,Finance,40000
+109,Invalid,IT,abc
+110,,Sales,30000

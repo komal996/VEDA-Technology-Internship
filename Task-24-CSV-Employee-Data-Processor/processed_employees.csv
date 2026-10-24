@@ -1,0 +1,9 @@
+ID,Name,Department,Salary,SalaryCategory
+101,Rahul,IT,50000.00,Medium
+102,Priya,HR,60000.00,Medium
+103,Amit,Finance,45000.00,Medium
+104,Neha,IT,75000.00,High
+105,Rohit,Sales,35000.00,Low
+106,Komal,Development,80000.00,High
+107,Anjali,HR,55000.00,Medium
+108,Vikas,Finance,40000.00,Medium
