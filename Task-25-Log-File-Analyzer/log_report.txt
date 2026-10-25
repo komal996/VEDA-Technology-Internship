@@ -1,0 +1,12 @@
+
+========== LOG ANALYSIS REPORT ==========
+Total Lines     : 10
+INFO Messages   : 4
+WARNING Messages: 2
+ERROR Messages  : 3
+Invalid Lines   : 1
+
+========== ERROR SUMMARY ==========
+Database connection failed : 2 occurrence(s)
+File not found : 1 occurrence(s)
+=========================================
