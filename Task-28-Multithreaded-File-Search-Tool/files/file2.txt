@@ -1,0 +1,5 @@
+@"
+Multithreading improves concurrency.
+Java provides ExecutorService.
+Java is platform independent.
+"@ | Set-Content files\file2.txt

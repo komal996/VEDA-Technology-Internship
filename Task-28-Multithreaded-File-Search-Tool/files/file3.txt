@@ -1,0 +1,5 @@
+@"
+File searching is useful.
+Java supports file handling.
+Threads can process multiple files.
+"@ | Set-Content files\file3.txt
