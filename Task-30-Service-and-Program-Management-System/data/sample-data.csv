@@ -1,0 +1,7 @@
+serviceId,serviceName,programName,description,duration,fee,status
+101,Web Development,IT Training,Learn HTML CSS and JavaScript,3 Months,5000,Active
+102,Java Programming,Software Training,Learn Core Java and OOP,2 Months,4000,Active
+103,Python Programming,IT Training,Learn Python Programming,3 Months,4500,Active
+104,Database Management,Computer Training,Learn SQL and Database Concepts,2 Months,3500,Active
+105,Data Analytics,Professional Training,Learn Data Analysis,4 Months,6000,Active
+106,Software Testing,IT Training,Learn Manual and Automation Testing,3 Months,5500,Inactive
